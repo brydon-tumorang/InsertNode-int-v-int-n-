@@ -4,7 +4,7 @@ Saya mau memberikan sedikit pencerahan mengenai konsep Double dan Single Linked 
 ===========================DOUBLE LINKED LIST=========================
 1. 	Double Link List itu bisa di ibaratkan dengan gerbong kereta di depan dan belakang
 	Gerbong tersebut memiliki Sebuah pengait yang menghubungkan nya dengan gerbong lain pengait tersebut
-	jika bisa juga dinamakan pointer yang sering digunakan adalah head dan tail untuk sebuah data awal
+	bisa juga dinamakan pointer yang sering digunakan adalah head dan tail untuk sebuah data awal
 	nah konsep nya sama seperti itu
 
 2. 	jadi ketika kita ingin membuat sebuah Double Linked list kita harus membuat sebuah data awal 
